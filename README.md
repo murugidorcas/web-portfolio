@@ -133,7 +133,4 @@ The site is fully responsive:
 
 Feel free to fork this repository, contribute improvements, or suggest new features. If you encounter any issues or have feedback, please open an issue in the GitHub repository.
 
-## License
-
-This project is open-source and available under the **MIT License**.
 
